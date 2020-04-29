@@ -1,0 +1,7 @@
+This is a demo Grails app
+
+Step to run application:
+1. create a folder named "restApp"
+2. clone the repository inside it
+3. open the project in IntelliJ using bild.gradle file and as a project
+4. run the file - Application.groovy in init folder
